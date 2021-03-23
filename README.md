@@ -1,1 +1,2 @@
-# tarea1-prograweb
+# PHP Framex
+A minimal PHP framework
